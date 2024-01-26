@@ -17,8 +17,12 @@ h1 ,h4, #searchForm{
     font-size: 15px;
     font-weight: 500;
   }
+  h4 span{
+    text-decoration-line: underline;
+    text-decoration-color: #084177;
+  }
   td{
-    padding : 0 14px 0 14px;
+    padding : 0 20px 0 20px;
   }
   #table-Container{
     margin-top: 20px;
